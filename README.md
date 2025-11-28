@@ -7,7 +7,7 @@
 
 <!-- BANNER GIF -->
 <p align="center">
-  <img src="https://files.catbox.moe/i8ha78.gif" width="600">
+  <img src="image.gif" width="600">
 </p>
 
 ---
