@@ -7,7 +7,7 @@
 
 <!-- BANNER GIF -->
 <p align="center">
-  <img src="image.gif" width="300" height="300">
+  <img src="compressed_image.gif" width="300" height="300">
 </p>
 
 ---
