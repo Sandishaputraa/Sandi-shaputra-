@@ -31,7 +31,7 @@
 
 ### 🌐 Connect With Me
 <p>
-  <a href="https://github.com/sandishaputra"><img src="https://skillicons.dev/icons?i=github" width="40"/></a>
+  <a href="https://github.com/sandishaputraa"><img src="https://skillicons.dev/icons?i=github" width="40"/></a>
 </p>
 
 ---
