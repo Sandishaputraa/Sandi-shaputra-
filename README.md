@@ -36,7 +36,12 @@
 ---
 
 <!-- DIVIDER ANIMASI -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/wave.png" width="100%">
+<img 
+  src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/wave.png" 
+  width="200" 
+  height="200" 
+  style="object-fit:cover;"
+>
 
 ### 📊 GitHub Stats (Dynamic)
 <p align="center">
