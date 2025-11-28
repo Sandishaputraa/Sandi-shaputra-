@@ -57,7 +57,7 @@
 
 ### 🌐 Connect With Me
 <p align="center">
-  <a href="https://github.com/sandishaputra">
+  <a href="https://github.com/sandishaputraa">
     <img src="https://skillicons.dev/icons?i=github" width="50"/>
   </a>
 </p>
@@ -66,16 +66,4 @@
 
 <p align="center">
   <b>🔥 Always learning, always leveling up 🔥</b>
-</p>  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandishaputra&layout=compact&theme=tokyonight" height="160" />
 </p>
-
----
-
-### 🌐 Connect With Me
-<p>
-  <a href="https://github.com/sandishaputraa"><img src="https://skillicons.dev/icons?i=github" width="40"/></a>
-</p>
-
----
-
-<p align="center">🔥 Always learning, always improving 🔥</p>
