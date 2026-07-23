@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=1000&color=00FF00&center=true&vCenter=true&width=900&lines=ROOT+ACCESS+GRANTED;WELCOME+SANDI+SHAPUTRA;ANDROID+DEVELOPER;KOTLIN+%7C+JETPACK+COMPOSE;SYSTEM+ONLINE"/></div>
-███████╗ █████╗ ███╗   ██╗██████╗ ██╗
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=1000&color=00FF00&center=true&vCenter=true&width=900&lines=ROOT+ACCESS+GRANTED;WELCOME+SANDI+SHAPUTRA;ANDROID+DEVELOPER;KOTLIN+%7C+JETPACK+COMPOSE;SYSTEM+ONLINE"/></div>███████╗ █████╗ ███╗   ██╗██████╗ ██╗
 ██╔════╝██╔══██╗████╗  ██║██╔══██╗██║
 ███████╗███████║██╔██╗ ██║██║  ██║██║
 ╚════██║██╔══██║██║╚██╗██║██║  ██║██║
