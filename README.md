@@ -1,93 +1,81 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=1000&color=00FF00&center=true&vCenter=true&width=900&lines=ROOT+ACCESS+GRANTED;WELCOME+SANDI+SHAPUTRA;ANDROID+DEVELOPER;KOTLIN+%7C+JETPACK+COMPOSE;SYSTEM+ONLINE"/></div>███████╗ █████╗ ███╗   ██╗██████╗ ██╗
-██╔════╝██╔══██╗████╗  ██║██╔══██╗██║
-███████╗███████║██╔██╗ ██║██║  ██║██║
-╚════██║██╔══██║██║╚██╗██║██║  ██║██║
-███████║██║  ██║██║ ╚████║██████╔╝██║
-╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═════╝ ╚═╝
+# 0x53 0x41 0x4E 0x44 0x49
 
-root@github:~# whoami
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=SYSTEM+BOOTING...;ROOT+ACCESS+GRANTED;WELCOME+BACK,+SANDI;ANDROID+DEVELOPER;KOTLIN+%7C+JETPACK+COMPOSE"/>
+
+</div>
+
+```console
+> boot sequence initialized...
+
+Loading kernel.....................OK
+Checking permissions...............OK
+Authenticating user................OK
+Mounting filesystem................OK
+
+User  : Sandi Shaputra
+Role  : Android Developer
+Status: ONLINE
+
+Access Level: ROOT
+
+---
+
+whoami
+
+$ whoami
 Sandi Shaputra
 
-root@github:~# hostname
-github.com/Sandishaputraa
+$ skills
 
-root@github:~# uname -a
-Android Developer
-Jetpack Compose Enthusiast
-Open Source Contributor
+> Kotlin
+> Jetpack Compose
+> Android SDK
+> Git
+> Linux
 
-root@github:~# sudo access
-
-ACCESS GRANTED ✔
-
----
-
-⚡ SYSTEM INFO
-
-Username : Sandishaputraa
-Name     : Sandi Shaputra
-Language : Kotlin
-Platform : Android
-Editor   : Android Studio + Acode
-OS       : Linux / Android
-Status   : Coding...
-
----
-
-🛰 ACTIVE PROJECT
+$ current_project
 
 Xspace Toolkit
 
-[███████████░░░░░░░] 68%
+---
 
-✔ Material You
-✔ Glass UI
-✔ Shizuku API
-✔ Package Manager
-✔ Gaming Center
-✔ Device Info
-✔ Terminal
-✔ Performance Tools
+system_status
+
+CPU      ████████████ 95%
+RAM      █████████░░ 72%
+COFFEE   ███████████ 100%
+BUGS     ██░░░░░░░░░ 12%
+CODING   ███████████ 100%
 
 ---
 
-💻 TECH
+github_stats
 
-<p align="center"><img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,gradle,git,github,linux,firebase,sqlite,vscode&theme=dark"/></p>---
+<p align="center"><img height="170" src="https://github-readme-stats.vercel.app/api?username=Sandishaputraa&theme=chartreuse-dark&hide_border=true&show_icons=true"/><img height="170" src="https://streak-stats.demolab.com?user=Sandishaputraa&theme=chartreuse-dark&hide_border=true"/></p>---
 
-📊 GITHUB
+tech_stack
 
-<p align="center"><img height="170" src="https://github-readme-stats.vercel.app/api?username=Sandishaputraa&show_icons=true&theme=chartreuse-dark&hide_border=true"/><img height="170" src="https://streak-stats.demolab.com?user=Sandishaputraa&theme=chartreuse-dark&hide_border=true"/></p>---
+<p align="center"><img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,git,github,linux,firebase,sqlite,vscode&theme=dark"/></p>---
 
-🧠 MOST USED
+connection
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandishaputraa&layout=compact&theme=chartreuse-dark&hide_border=true"/></p>---
+$ ping github.com
 
-🐍 CONTRIBUTION
+Reply from github.com
 
-<p align="center"><img src="https://raw.githubusercontent.com/Sandishaputraa/Sandishaputraa/output/github-contribution-grid-snake-dark.svg"/></p>---
+Status : Connected
+Latency: 0ms
+Encryption: AES-256
 
-TERMINAL
-
-$ sudo hack_the_planet
-
-Loading Android SDK...
-Loading Kotlin...
-Loading Jetpack Compose...
-Loading Coffee...
-
-██████████████████████████ 100%
-
-Developer Ready ✔
+Happy Coding...
 
 ---
 
-CONTACT
+<p align="center">+ SESSION ACTIVE
++ ENCRYPTION ENABLED
++ NO SYSTEM BREACH DETECTED
 
-GitHub : github.com/Sandishaputraa
-
----
-
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=150&section=footer"/></p>
+</p>
+```
