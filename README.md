@@ -1,5 +1,3 @@
-🚨 Hacker Animation Pack
-
 <!-- Animated Typing -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=800&color=00FF00&center=true&vCenter=true&width=900&lines=ROOT+ACCESS+GRANTED;SYSTEM+ONLINE;WELCOME+SANDI+SHAPUTRA;ANDROID+DEVELOPER;KOTLIN+%7C+JETPACK+COMPOSE"/>
 
