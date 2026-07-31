@@ -1,32 +1,66 @@
-<!-- Animated Typing -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=800&color=00FF00&center=true&vCenter=true&width=900&lines=ROOT+ACCESS+GRANTED;SYSTEM+ONLINE;WELCOME+SANDI+SHAPUTRA;ANDROID+DEVELOPER;KOTLIN+%7C+JETPACK+COMPOSE"/>
-
-<!-- Matrix Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FF00&height=250&section=header&text=SYSTEM%20ONLINE&fontColor=00FF00&animation=fade&fontSize=45"/>
-
-<!-- Hacker GIF -->
+<h1 align="center">Hi there 👋, I'm Sandi Shaputra</h1>
 <p align="center">
-<img width="700" src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Building+Scalable+Web+Apps;Turning+Ideas+into+Code" alt="Typing SVG" />
 </p>
 
-<!-- Visitor -->
-<img src="https://komarev.com/ghpvc/?username=Sandishaputraa&style=for-the-badge&color=00ff00"/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sandishaputraa&style=for-the-badge&color=blueviolet" alt="Sandishaputraa" />
+</p>
 
-<!-- Stats -->
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Sandishaputraa&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
-<img height="180" src="https://streak-stats.demolab.com?user=Sandishaputraa&theme=chartreuse-dark&hide_border=true"/>
+---
 
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sandishaputraa&theme=github-compact&bg_color=000000&color=00ff00&line=00ff00&point=00ff00&hide_border=true"/>
+### 👨‍💻 About Me
+* 🚀 Passionate **Full-Stack Developer** focused on building robust, high-performance, and user-friendly web applications.
+* 🌱 Currently exploring advanced backend architectures, cloud services, and modern frontend frameworks.
+* ⚡ Fun fact: I turn coffee into code and bugs into features!
 
-<!-- Snake -->
-<img src="https://raw.githubusercontent.com/Sandishaputraa/Sandishaputraa/output/github-contribution-grid-snake-dark.svg"/>
+---
 
-<!-- Trophy -->
-<img src="https://github-profile-trophy.vercel.app/?username=Sandishaputraa&theme=matrix&no-frame=true&margin-w=15"/>
+### 🛠️ Tech Stack & Tools
 
-<!-- Random Quote -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
+**Frontend Development**
+<p>
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-%2338BDF8.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</p>
 
-<!-- Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff00,100:000000&height=150&section=footer"/>
+**Backend & Database**
+<p>
+  <img src="https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
+
+**Tools & DevOps**
+<p>
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sandishaputraa&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandishaputraa&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sandishaputraa&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sandishaputraa&theme=tokyonight&no-bg=true&margin-w=5&margin-h=5" alt="GitHub Trophies" />
+</p>
